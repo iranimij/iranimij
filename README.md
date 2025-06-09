@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Iman Aboheydary (iranimij) 👋
 
-<!--
-**iranimij/iranimij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Software Developer/Engineer** who just develops for fun!  
+I love diving deep into code and building awesome things with:
 
-Here are some ideas to get you started:
+- **Languages:** PHP, JavaScript
+- **Frameworks/Libraries:** React JS, Magento, WordPress, Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Favorite Projects
+
+- [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker)  
+  Automated tool to check Magento extensions for compatibility and code quality.
+
+- [CustomGento Default Store Code Remover for Magento 2](https://github.com/customgento/module-default-store-code-remover-m2)  
+  Magento 2 module to remove default store codes from URLs for cleaner, more user-friendly links.
+
+- [Magento2 Product Labels](https://github.com/iranimij/magento2-product-labels)  
+  Add custom product labels to your Magento 2 store with ease.
+
+## 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-iranimij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iranimij/)](https://www.linkedin.com/in/iranimij/)
+
+---
+
+> "I just develop for fun!"
+
+Feel free to check out my repositories or reach out—I'm always happy to chat code, projects, or anything tech!
