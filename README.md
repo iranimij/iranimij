@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iman Aboheydary (aka iranimij)
 
-I'm a passionate **Full Stack Software Developer & Engineer** who loves building innovative solutions and exploring the depths of code. Whether it's crafting robust backend systems or designing intuitive frontend interfaces, I thrive on creating things that are both functional and delightful.
+I'm a passionate **Full Stack Software Engineer** who loves building innovative solutions and exploring the depths of code. Whether it's crafting robust backend systems or designing intuitive frontend interfaces, I thrive on creating things that are both functional and delightful.
 
 ---
 
