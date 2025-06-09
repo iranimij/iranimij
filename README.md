@@ -1,26 +1,22 @@
-# Hi there, I'm Iman Aboheydary (iranimij) 👋
+👋 Hi, I'm Iman Aboheydary (aka iranimij)
+I'm a passionate Full Stack Software Developer & Engineer who loves building innovative solutions and exploring the depths of code. Whether it's crafting robust backend systems or designing intuitive frontend interfaces, I thrive on creating things that are both functional and delightful.
 
-I'm a passionate **Full Stack Software Developer/Engineer** who fell in love with developing new things! 
-I love diving deep into code and building awesome things with:
+💻 Tech Stack
+Languages: PHP, JavaScript
+Frameworks & Tools: React.js, Magento, WordPress, Laravel
 
-- **Languages:** PHP, JavaScript
-- **Frameworks/Libraries:** React JS, Magento, WordPress, Laravel
+🚀 Featured Projects
+🔍 Yireo ExtensionChecker
+Automated tool to analyze Magento extensions for compatibility and code quality.
 
-## 🚀 My Favorite Projects
+🧹 CustomGento Default Store Code Remover
+Magento 2 module that removes default store codes from URLs, improving cleanliness and usability.
 
-- [Yireo ExtensionChecker](https://github.com/yireo/Yireo_ExtensionChecker)  
-  Automated tool to check Magento extensions for compatibility and code quality.
+🏷️ Magento2 Product Labels
+Easily add customizable product labels to Magento 2 stores.
 
-- [CustomGento Default Store Code Remover for Magento 2](https://github.com/customgento/module-default-store-code-remover-m2)  
-  Magento 2 module to remove default store codes from URLs for cleaner, more user-friendly links.
+🌐 Let's Connect
+📎 LinkedIn
+💬 Always open to chatting about tech, open-source, and new opportunities!
 
-- [Magento2 Product Labels](https://github.com/iranimij/magento2-product-labels)  
-  Add custom product labels to your Magento 2 store with ease.
-
-## 🌎 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-iranimij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iranimij/)](https://www.linkedin.com/in/iranimij/)
-
----
-
-Feel free to check out my repositories or reach out—I'm always happy to chat code, projects, or anything tech!
+Feel free to explore my repositories—I'm constantly learning and building!
