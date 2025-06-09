@@ -15,6 +15,15 @@ Magento 2 module that removes default store codes from URLs, improving cleanline
 🏷️ Magento2 Product Labels
 Easily add customizable product labels to Magento 2 stores.
 
+⚙️ WP Options Manager
+Manage, view, edit, or delete WordPress options directly from the admin panel.
+
+🗃️ WP Plugin DB Updater
+Simplifies and automates database structure updates for your custom WordPress plugins.
+
+🖼️ Automatic Image Uploader
+Automatically upload and attach images from external URLs to WordPress posts or custom fields.
+
 🌐 Let's Connect
 📎 LinkedIn
 💬 Always open to chatting about tech, open-source, and new opportunities!
