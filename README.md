@@ -1,6 +1,6 @@
 # Hi there, I'm Iman Aboheydary (iranimij) 👋
 
-I'm a passionate **Full Stack Software Developer/Engineer** who just develops for fun!  
+I'm a passionate **Full Stack Software Developer/Engineer** who fell in love with developing new things! 
 I love diving deep into code and building awesome things with:
 
 - **Languages:** PHP, JavaScript
@@ -22,7 +22,5 @@ I love diving deep into code and building awesome things with:
 [![LinkedIn](https://img.shields.io/badge/-iranimij-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iranimij/)](https://www.linkedin.com/in/iranimij/)
 
 ---
-
-> "I just develop for fun!"
 
 Feel free to check out my repositories or reach out—I'm always happy to chat code, projects, or anything tech!
