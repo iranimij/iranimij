@@ -10,6 +10,7 @@ I'm a passionate **Full Stack Software Engineer** who loves building innovative 
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333?style=flat&logo=codeIgniter)](https://codeigniter.com/)
 [![Opencart](https://img.shields.io/badge/-Opencart-333?style=flat&logo=opencart)](https://www.opencart.com/)
 [![Magento](https://img.shields.io/badge/-Magento-333?style=flat&logo=magento)](https://www.magento.com/)
+![Magento 2](https://img.shields.io/badge/-Magento%202-333?style=flat&logoColor=white&color=ee672f)
 [![Symfony](https://img.shields.io/badge/-Symfony-333?style=flat&logo=symfony)](https://symfony.com/)
 [![macOs](https://img.shields.io/badge/-MacOS-333?style=flat&logo=macOS)](https://www.apple.com/macos/)
 [![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)](https://www.docker.com/)
