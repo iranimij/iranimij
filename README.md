@@ -4,7 +4,7 @@ I'm a passionate **Full Stack Software Engineer** who loves building innovative 
 
 ## 🛠️ Technologies & Tools
 
-![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=flat&logo=wordpress)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333?style=flat&logo=codeIgniter)
